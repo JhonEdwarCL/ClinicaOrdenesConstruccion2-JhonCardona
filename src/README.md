@@ -65,4 +65,4 @@ El proyecto está organizado por capas:
 
 ## 👨‍💻 Autor
 
-Proyecto académico - Construcción de Software
+Jhon Edwar Cardona Londoño 
